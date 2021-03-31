@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d84263a84839f6a1bd04eb1fe397091",
+    "revision": "ab680dc563a31a634798bae5933562e8",
     "url": "/index.html"
   },
   {
-    "revision": "cbb5e38b55c6c64565f1",
-    "url": "/static/css/main.2d0c38c2.chunk.css"
+    "revision": "2097a8d38c356fd51017",
+    "url": "/static/css/main.68ed29c1.chunk.css"
   },
   {
-    "revision": "9c196188a61e4a9b3044",
-    "url": "/static/js/2.e3f949fa.chunk.js"
+    "revision": "78cd5a07a7d8ea365426",
+    "url": "/static/js/2.49ffbf81.chunk.js"
   },
   {
-    "revision": "cbb5e38b55c6c64565f1",
-    "url": "/static/js/main.0f1c2e81.chunk.js"
+    "revision": "2097a8d38c356fd51017",
+    "url": "/static/js/main.0f8ee304.chunk.js"
   },
   {
     "revision": "208bc6eb3279d6534e77",
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b3685be8bafcd5fe4786b39cba69a561",
     "url": "/static/media/codeInLogo.b3685be8.png"
+  },
+  {
+    "revision": "a7984fb03087fc905419bd91ffb17200",
+    "url": "/static/media/codepolitan_logo.a7984fb0.png"
   },
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
@@ -286,6 +290,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "da0e7c80b90df28dd3a590c80f3d4970",
     "url": "/static/media/stanford_logo.da0e7c80.png"
+  },
+  {
+    "revision": "f493c10da28a054e16c25b687d0f98a0",
+    "url": "/static/media/staycation.f493c10d.png"
   },
   {
     "revision": "de3da8064f2e9ffab945772c2c67e46f",
