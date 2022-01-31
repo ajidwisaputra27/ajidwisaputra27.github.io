@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d93c8843c3dab61eba166e8cd8865458",
+    "revision": "8c8ef9d6241029e7b7661c2f2b38e509",
     "url": "/index.html"
   },
   {
-    "revision": "5d50fb6d26829772b7b0",
+    "revision": "fce5f4ea841a32ab8771",
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "12f263d4a96f7b5d56df",
+    "revision": "da4be2176bafc0c8034e",
     "url": "/static/css/main.6d31cc18.chunk.css"
   },
   {
-    "revision": "5d50fb6d26829772b7b0",
-    "url": "/static/js/2.b3ad0bfa.chunk.js"
+    "revision": "fce5f4ea841a32ab8771",
+    "url": "/static/js/2.11f237c2.chunk.js"
   },
   {
-    "revision": "12f263d4a96f7b5d56df",
-    "url": "/static/js/main.22c5aefc.chunk.js"
+    "revision": "da4be2176bafc0c8034e",
+    "url": "/static/js/main.5d8dfd81.chunk.js"
   },
   {
     "revision": "208bc6eb3279d6534e77",
@@ -290,6 +290,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "df62c420610864096b708d079c7a6c29",
     "url": "/static/media/project_lexgo.df62c420.png"
+  },
+  {
+    "revision": "883d071cde17b8ac2f29bf3c11d88657",
+    "url": "/static/media/project_myads_telkomsel.883d071c.png"
   },
   {
     "revision": "0b53a7c2b5991a5e2ff4c6b3790c63de",
